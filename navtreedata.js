@@ -25,20 +25,24 @@
 var NAVTREE =
 [
   [ "Ada", "index.html", [
-    [ "Requirements", "index.html#autotoc_md1", null ],
-    [ "Usage", "index.html#autotoc_md2", [
-      [ "Parsing & Validation", "index.html#autotoc_md3", null ],
-      [ "Examples", "index.html#autotoc_md4", null ],
-      [ "CMake dependency", "index.html#autotoc_md5", null ]
+    [ "Ada is fast.", "index.html#autotoc_md13", null ],
+    [ "Bindings of Ada", "index.html#autotoc_md14", null ],
+    [ "Usage", "index.html#autotoc_md15", [
+      [ "Requirements", "index.html#autotoc_md12", null ],
+      [ "Parsing & Validation", "index.html#autotoc_md16", null ],
+      [ "Examples", "index.html#autotoc_md17", null ],
+      [ "C wrapper", "index.html#autotoc_md18", null ],
+      [ "CMake dependency", "index.html#autotoc_md19", null ]
     ] ],
-    [ "Installation", "index.html#autotoc_md6", [
-      [ "Homebrew", "index.html#autotoc_md7", null ]
+    [ "Installation", "index.html#autotoc_md20", [
+      [ "Homebrew", "index.html#autotoc_md21", null ]
     ] ],
-    [ "Contributing", "index.html#autotoc_md8", [
-      [ "Building", "index.html#autotoc_md9", null ],
-      [ "Amalgamation", "index.html#autotoc_md10", null ],
-      [ "License", "index.html#autotoc_md11", null ]
+    [ "Contributing", "index.html#autotoc_md22", [
+      [ "Building", "index.html#autotoc_md23", null ],
+      [ "Amalgamation", "index.html#autotoc_md24", null ],
+      [ "License", "index.html#autotoc_md25", null ]
     ] ],
+    [ "Command line interface (CLI)", "db/d8a/md_docs_2cli.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -58,13 +62,15 @@ var NAVTREE =
         [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ],
         [ "Variables", "functions_vars.html", null ],
-        [ "Related Functions", "functions_rela.html", null ]
+        [ "Related Symbols", "functions_rela.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
+        [ "Functions", "globals_func.html", null ],
+        [ "Typedefs", "globals_type.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
     ] ]
@@ -74,9 +80,9 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d6/d3d/url__aggregator_8h.html#a4e483bbc60c5905f8885c2dc134a30ed",
-"db/d2e/ada__idna_8cpp.html#ac7495198fe0aa95543b347ac9cc548ddaac89a080f4a412d2e92dfe8a9485d904",
-"dd/d90/unicode_8h.html#ad649ab6ed074b809af2eceaaa0c787db"
+"d5/ddb/namespaceada_1_1idna.html#ac7495198fe0aa95543b347ac9cc548dda4a022b59c5ef2d6b3e1f19d3b920c6ac",
+"db/d2e/ada__idna_8cpp.html#a273eb4809ead730a5835f426c059e7c7",
+"dd/d64/namespaceada.html#a4796e4f266c83d76b490d423c8336a70"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

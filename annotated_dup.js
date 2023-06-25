@@ -9,9 +9,8 @@ var annotated_dup =
       [ "url_base", "db/d75/structada_1_1url__base.html", "db/d75/structada_1_1url__base" ],
       [ "url_components", "d3/d43/structada_1_1url__components.html", "d3/d43/structada_1_1url__components" ]
     ] ],
-    [ "ufal", "df/d7a/namespaceufal.html", [
-      [ "unilib", "d7/dda/namespaceufal_1_1unilib.html", [
-        [ "uninorms", "dd/d86/classufal_1_1unilib_1_1uninorms.html", "dd/d86/classufal_1_1unilib_1_1uninorms" ]
-      ] ]
-    ] ]
+    [ "ada_owned_string", "df/d1e/structada__owned__string.html", "df/d1e/structada__owned__string" ],
+    [ "ada_string", "d2/daa/structada__string.html", "d2/daa/structada__string" ],
+    [ "ada_url_components", "dc/d69/structada__url__components.html", "dc/d69/structada__url__components" ],
+    [ "parse_result", "d8/d9f/structparse__result.html", "d8/d9f/structparse__result" ]
 ];

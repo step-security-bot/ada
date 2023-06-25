@@ -1,9 +1,10 @@
 var unicode_8cpp =
 [
+    [ "broadcast", "dd/d9c/unicode_8cpp.html#a6ed16a9339ab5625b761e534b10fce84", null ],
     [ "contains_forbidden_domain_code_point", "dd/d9c/unicode_8cpp.html#a8e4d69a9364a662aa6b27afee0b33237", null ],
-    [ "contains_forbidden_domain_code_point_or_upper", "dd/d9c/unicode_8cpp.html#a88bff92c3994ebce3d56fab5dd0ad6bc", null ],
+    [ "contains_forbidden_domain_code_point_or_upper", "dd/d9c/unicode_8cpp.html#aa0a6aef61e1b2117fd60ec4ba0ed9a8d", null ],
     [ "convert_hex_to_binary", "dd/d9c/unicode_8cpp.html#ab69353b882a97069e4b290be2b1097f2", null ],
-    [ "has_tabs_or_newline", "dd/d9c/unicode_8cpp.html#a8bb663e948c6b3a9793ddef424ba795e", null ],
+    [ "has_tabs_or_newline", "dd/d9c/unicode_8cpp.html#ade8fed1cb2577dc6af5b9321a9fb3e00", null ],
     [ "is_alnum_plus", "dd/d9c/unicode_8cpp.html#a34ca589b96e46ded7100f244fedd0c36", null ],
     [ "is_ascii_hex_digit", "dd/d9c/unicode_8cpp.html#a155ee2ca17ce7bf9c57059d56dbf94da", null ],
     [ "is_ascii_tab_or_newline", "dd/d9c/unicode_8cpp.html#a3e4e3fb4ee2ad78a184c9df98a8769cd", null ],
